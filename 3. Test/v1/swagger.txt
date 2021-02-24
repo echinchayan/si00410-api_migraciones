@@ -1,0 +1,9 @@
+
+DOCUMENTO:
+http://10.200.8.157:8080/swagger/index.html
+
+DESENCRIPTAR
+https://pide.minedu.gob.pe/reniec/public/api/auth/aes256
+
+HOST:
+10.200.4.155 pide.minedu.gob.pe
